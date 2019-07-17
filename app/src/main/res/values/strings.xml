@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Food Tracker</string>
+    <string name="title">Ingredient Tracker</string>
+    <string name="titleSub">Keep track your food ingredients</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addIngredient">Register Ingredients</string>
+    <string name="viewIngredients">View Ingredients</string>
+    <string name="ingredientsAvailability">Ingredients Availability</string>
+    <string name="editIngredients">Edit Ingredients</string>
+    <string name="searchIngredients">Search Ingredients</string>
+    <string name="recipes">Recipes</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="productID">Product ID</string>
+    <string name="productName">Product Name</string>
+    <string name="weight">Weight</string>
+    <string name="price">Price</string>
+    <string name="desc">Description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="Availability">
+        <item>Available</item>
+        <item>Unavailable</item>
+    </string-array>
+    <string name="here">Did you select wrong ingredient? Don\'t worry you can unselect and confirm your final ingredients</string>
+    <string name="select">Select any ingredients that you like to add to your kitchen</string>
+    <string name="update">Need to update ingredients. It\'s ok click what you want to update and also you can delete!</string>
+    <string name="availability">Availability</string>
+    <string name="cant">Can\'t find your ingredients? Search them here and for more details click the ingredient name!</string>
+    <string name="registerTitle">Add here your favorite ingredients</string>
+    <string name="viewTitle">Your Ingredient collection</string>
+    <string name="kitchen">Availability of the ingredients</string>
+    <string name="updateTitle">Update the ingredients</string>
+    <string name="serachTitle">Explore you ingredients</string>
+    <string name="recipeTitle">Find your tasty recipes</string>
+    <string name="delete">Your choice is delete the ingredient then check the name and id and just click the delete button</string>
+    <string name="updateIng">Your choice is update the ingredient then you need to fill all required fields and click the update button</string>
+
+</resources>
